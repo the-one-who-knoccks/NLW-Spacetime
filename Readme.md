@@ -1,5 +1,5 @@
 <h1 align="center">
-   Spacetime - Cápsula do tempo
+ Cápsula do tempo
 </h1>
 
 <p align="center">
