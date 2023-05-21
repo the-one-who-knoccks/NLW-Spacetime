@@ -37,7 +37,7 @@ export default function NewMemory() {
         setPreview(result.assets[0].uri)
       }
     } catch (err) {
-      // deu erro mas eu não tratei
+      // deu erro mas eu ainda não tratei 😂
     }
   }
 
