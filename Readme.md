@@ -17,15 +17,27 @@
 </p>
 
 
+
+
 <h2 id="objetivo">🚀 <b>Sobre o projeto:</b></h2>
 
 - ### Projeto desenvolvido durante a semana da NLW onde o usuário poderá criar e rever memórias e acontecimentos marcantes da sua vida.
+
+
+
+<p align="center">
+  <img alt="Preview" src=".github/preview.png">
+</p>
+
+
 
 <h2 id="tecnologias">🔧 <b>Ferramentas:</b></h2>
 
 - React
 - NextJs
 - Tawilwind
+- Expo
+
 
 
 
